@@ -2,6 +2,9 @@
 
 #### ERT Export Groups
 
+[Online version](https://repl.it/@ElieRotenberg/ERT-Groups-Export#data.lua)
+
+Offline:
 * Install `lua`
 * Create a file, e.g. `export-groups-input`, paste full groups from Google Doc or other input formatted like:
 ```Sophistie	Pyrhos	Furyprotein	Rolfo	Khrogar
